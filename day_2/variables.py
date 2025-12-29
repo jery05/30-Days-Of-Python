@@ -25,4 +25,22 @@ type(linux)
 type(lfs)
 len(first_name)
 print("difference in lecgth is" len(first_name) - len(last_name))
+num_one = 5 
+num_two = 4
+total = num_one + num_two
+diff = num_one - num_two
+product = num_one * num_two
+division = num_one / num_two
+remainder = num_two / num_one
+exp = num_one ** num_two
+floor_division = num_one // num_two
+r = 30
+area_of_circle = 3.1415 * r**2
+circum_of the circle = 2 * 3.1415 * r
+radius = input('enter the radius of the circle')
+print('The area of circle is', 3.1415 * r ** 2)
+First_name = input('Enter your first name')
+Lastst_name = input('Enter your last name')
+Country = input('Enter your Country')
+Age = input('Enter your age')
 
